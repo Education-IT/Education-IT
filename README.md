@@ -3,7 +3,7 @@
 <div align="right">
   <img src="https://media2.giphy.com/media/YMYucg1qWuVpHKS6dG/giphy.gif?cid=790b7611a05a0bf2cfa6d1570c7de724e90aad65359c398e&rid=giphy.gif&ct=g" width="200" height="150" align="right"/>
 </div>
-<h3>INSTRUKTOR PROGRAMOWANIA <br>w <a href="https://skyblue.education/">SkyBlue Education</a> .</h3>
+<h3>INSTRUKTOR PROGRAMOWANIA <br>w <a href="https://skyblue.education/">SkyBlue Education</a></h3>
 <a href="https://www.linkedin.com/in/krystian-osi%C5%84ski-6a4b46245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://www.facebook.com/krystian.osinski.7/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://education-it.pl/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
@@ -28,10 +28,10 @@
 </div>
 
 ##
-- ✨ Uwielbiam rozwiązywać zadania **algorytmiczne** i **programować** 
+- ✨ Uwielbiam rozwiązywać zadania **algorytmiczne** i **programować**.
 - 🔭 Aktualnie pracuję nad moją  **dydaktyczną stroną internetową**.
 - 🌱 Obecnie uczę się **C#** i **algorytmów**.
-- ⚡ Fun fact: lubię **biegać** i **jeździć na nartach**
+- ⚡ Fun fact: lubię **biegać** i **jeździć na nartach**.
 
 
 
