@@ -43,7 +43,7 @@
 
 ☕ Następnie zacząłem pracować w kawiarni Starbucks - gdzie bardzo szybko awansowałem na Baristę trenera a w nie długim odstępie czasu również na stanowisko Store Coffee mastera. Moimi głównymi zadaniami było: przygotowywanie indywidualnego planu rozwoju oraz szkolenie baristów chcących awansować poziomo na stanowisko coffee master’a. Opieka nad nowymi pracownikami i wyposażenie ich w niezbędną wiedzę w pracy baristy oraz szerzenie pasji kawowej w zespole, inspirowanie i rozwój w świecie kawy. W Starbucks procowałem przez 2.5 roku.<br>
 
-💻 Po pierwszym roku studiów informatycznych - postanowiłem zacząć uczyć na całego! 😊 Rozpocząłem pracę w SkyBlue Education (od 09.2021) gdzie prowadzę zajęcia stacjonarne oraz zdalne z programowania blokowego w języku MakeCode i programowania w języku Python, dla dzieci z klas 1 - 6 (grupy 12 osobowe). Również współtworzę  programu nauczania i materiały dydaktyczne (podręczniki i przykładowe programy) 
+💻 Po pierwszym roku studiów informatycznych - postanowiłem zacząć uczyć na całego! 😊 Rozpocząłem pracę w Sky Blue Education (od 09.2021) gdzie prowadzę zajęcia stacjonarne oraz zdalne z programowania blokowego w języku MakeCode i programowania w języku Python, dla dzieci z klas 1 - 6 (grupy 12 osobowe). Również współtworzę  program nauczania i materiały dydaktyczne (podręczniki i przykładowe programy) 
 Prowadzę też wszelkiego rodzaju akcje promocyjne, takie jak: drzwi otwarte,
 zajęć pokazowe, stanowiska na festynach czy wywiadówkach.
 
@@ -54,19 +54,3 @@ W SkyBlue - pracuję do dziś! ✔️
 
    
   <div align=center><img src="https://media1.giphy.com/media/ShoVlIk8TdFUnHhS3x/giphy.gif?cid=790b7611d05b46dc9c9fef6fb16a8304e802ee2b3fa26b0d&amp;rid=giphy.gif&amp;ct=g" alt="Grow Marketing Agency GIF by Digital 22" style="width: 500px; height: 281.25px; left: 0px; top: 0px; opacity: 0;"></details></div>
-
-
-<!--
-**Education-IT/Education-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
