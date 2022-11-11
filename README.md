@@ -8,7 +8,7 @@
 <a href="https://www.facebook.com/krystian.osinski.7/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://education-it.pl/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a href="mailto:krystian.osinski@education-it.pl"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<div align=left>
+<div>
 <img src="https://komarev.com/ghpvc/?username=Education-IT&style=flat-square&color=blue" alt=""/></div>
 </div>
 
