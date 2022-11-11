@@ -30,7 +30,7 @@
 ##
 - ✨ Uwielbiam rozwiązywać zadania **algorytmiczne** i **programować**.
 - 🔭 Aktualnie pracuję nad moją  **dydaktyczną stroną internetową**.
-- 🌱 Obecnie uczę się **C#** i **algorytmów**.
+- 🌱 Obecnie uczę się języka **C#** i **algorytmów**.
 - ⚡ Fun fact: lubię **biegać** i **jeździć na nartach**.
 
 
