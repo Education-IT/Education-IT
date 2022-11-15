@@ -29,8 +29,8 @@
 
 ##
 - ✨ Uwielbiam rozwiązywać zadania **algorytmiczne** i **programować**.
-- 🔭 Aktualnie pracuję nad moją  **dydaktyczną stroną internetową**.
-- 🌱 Obecnie uczę się języka **C#** i **algorytmów**.
+- 🔭 Aktualnie pracuję nad moją  **dydaktyczną stroną internetową** oraz **kursem Pythona**. (produkt który będzie w przyszłości oferowany przez SkyBlue Education)
+- 🌱 Obecnie uczę się języka **C#**, **Pythona** i **algorytmów**.
 - ⚡ Fun fact: lubię **biegać** i **jeździć na nartach**.
 
 
