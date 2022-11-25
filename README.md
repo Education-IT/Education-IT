@@ -10,7 +10,7 @@
 <a href="https://www.youtube.com/channel/UCfH07qENh6BdSq1nUBSK53Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="mailto:krystian.osinski@education-it.pl"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <div>
-<!-- <img src="https://komarev.com/ghpvc/?username=Education-IT&style=flat-square&color=blue" alt=""/>-->--</div>
+<!-- <img src="https://komarev.com/ghpvc/?username=Education-IT&style=flat-square&color=blue" alt=""/>--></div>
 </div>
 
 
