@@ -53,6 +53,3 @@ Zajęćia online nagrywam za pomocą OBS studio i następnie udostępniam je na 
   
 W SkyBlue - pracuję do dziś! ✔️
 
-
-   
-  <div align=center><img src="https://media1.giphy.com/media/ShoVlIk8TdFUnHhS3x/giphy.gif?cid=790b7611d05b46dc9c9fef6fb16a8304e802ee2b3fa26b0d&amp;rid=giphy.gif&amp;ct=g" alt="Grow Marketing Agency GIF by Digital 22" style="width: 500px; height: 281.25px; left: 0px; top: 0px; opacity: 0;"></details></div>
