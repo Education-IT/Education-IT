@@ -29,10 +29,11 @@
 </div>-->
 
 ##
-- ✨ Uwielbiam rozwiązywać zadania **algorytmiczne** i **programować**.
-- 🔭 Aktualnie pracuję nad moją  **dydaktyczną stroną internetową** oraz **kursem Pythona**. (produkt który będzie w przyszłości oferowany przez SkyBlue Education)
-- 🌱 Obecnie uczę się języka, **Python** i **algorytmów**.
+- ✨ Uwielbiam rozwiązywać zadania **algorytmiczne**, **programować** i **tworzyć gry**.
+- 🔭 Aktualnie pracuję nad **kolejnym poziomem kursu Pythona**. (Poziom pierwszy już dostępny! https://subscribepage.io/skyblue_python )
+- 🌱 Obecnie uczę się języka, **Python** , **algorytmów** i **OpenGL**.
 - ⚡ Fun fact: lubię **biegać** i **jeździć na nartach**.
+- :mag_right: https://education-it.github.io/todo/
 
 
 
