@@ -30,7 +30,7 @@
 
 ##
 - ✨ Uwielbiam rozwiązywać zadania **algorytmiczne**, **programować** i **tworzyć gry**.
-- 🔭 Aktualnie pracuję nad **kolejnym poziomem kursu Pythona**. (Poziom pierwszy już dostępny! https://subscribepage.io/skyblue_python )
+- 🔭 Aktualnie pracuję nad **kolejnym poziomem kursu Pythona**. (lvl.1 - dostępny! https://subscribepage.io/skyblue_python )
 - 🌱 Obecnie uczę się języka, **Python** , **algorytmów** i **OpenGL**.
 - ⚡ Fun fact: lubię **biegać** i **jeździć na nartach**.
 - :mag_right: https://education-it.github.io/todo/
