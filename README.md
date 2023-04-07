@@ -30,8 +30,8 @@
 
 ##
 - ✨ Uwielbiam rozwiązywać zadania **algorytmiczne**, **programować** i **tworzyć gry**.
-- 🔭 Aktualnie pracuję nad **kolejnym poziomem kursu Pythona**. (lvl.1 - dostępny! https://subscribepage.io/skyblue_python )
-- 🌱 Obecnie uczę się języka, **Python** , **algorytmów** i **OpenGL**.
+- 🔭 Aktualnie pracuję nad **kolejnym kursem - HTML & CSS**. (Python lvl.1 - już dostępny! [link](https://skyblue.education/programowanie-dla-dzieci-python/) )
+- 🌱 Obecnie uczę się: **Framework'a Angular** , **Javy** i **WebGL'a**.
 - ⚡ Fun fact: lubię **biegać** i **jeździć na nartach**.
 - :mag_right: https://education-it.github.io/todo/
 
@@ -52,4 +52,5 @@ zajęć pokazowe, stanowiska na festynach czy wywiadówkach.
 Zajęćia online nagrywam za pomocą OBS studio i następnie udostępniam je na platformie YouTube.
   
 W SkyBlue - pracuję do dziś! ✔️
+</details>
 
