@@ -33,7 +33,7 @@
 - 🔭 Aktualnie pracuję nad **kolejnym kursem - HTML & CSS**. (Python lvl.1 - już dostępny! [link](https://skyblue.education/programowanie-dla-dzieci-python/) )
 - 🌱 Obecnie uczę się: **Framework'a Angular** , **Javy** i **WebGL'a**.
 - ⚡ Fun fact: lubię **biegać** i **jeździć na nartach**.
-- :mag_right: https://education-it.github.io/todo/
+<!-- - :mag_right: https://education-it.github.io/todo/ -->
 
 
 
