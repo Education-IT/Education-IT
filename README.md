@@ -16,24 +16,24 @@
 
 ##
 
-<!-- ### 🧰 Languages and Tools:
+ ### 🧰 Languages and Tools:
 
 <div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>-->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>
+          
+          
+</div>
 
 ##
 - ✨ I love solving **algorithmic** tasks, **programming**, and **creating games**.
-- 🔭 Currently working on **another course - HTML & CSS**. (Python lvl.1 - available now! [link](https://skyblue.education/programowanie-dla-dzieci-python/))
-- 🌱 Currently learning: **Angular Framework**, **Java**, and **WebGL**.
+- 🔭 Currently working on **Unity course**.
+- 🌱 Currently learning: **C#**, **Angular**, and **agile project management**.
 - ⚡ Fun fact: I enjoy **running** and **skiing**.
-<!-- - :mag_right: https://education-it.github.io/todo/ -->
+- :mag_right: https://education-it.github.io/todo/
 
 
 
@@ -48,6 +48,12 @@
 ☕ Then I started working at Starbucks, where I quickly became a Trainer Barista and, shortly after, a Store Coffee Master. My main tasks included preparing an individual development plan and training baristas who wanted to progress horizontally to the position of coffee master. I took care of new employees and equipped them with the necessary knowledge for barista work while spreading the passion for coffee in the team, inspiring them, and fostering their development in the world of coffee. I worked at Starbucks for 2.5 years.
 
 💻 After the first year of computer science studies, I decided to fully engage in teaching! 😊 I started working at Sky Blue Education (since 09.2021), where I conduct stationary and remote classes in block programming using MakeCode and Python programming for children in grades 1-6 (groups of 12 students). I also co-create the curriculum and didactic materials (textbooks and sample programs). I also organize various promotional activities, such as open days, demonstration classes, stands at fairs or parent-teacher meetings.
+
+📃I have created 2 handbooks for teaching block programming in MakeCode and programming in Python in Minecraft Education Edition. I have also developed 2 courses (each consisting of 8 lessons) teaching Python and HTML & CSS."
+
+-> Python lvl.1 course [link](https://skyblue.education/programowanie-dla-dzieci-python/)
+
+-> HTML & CSS course [link](https://skyblue.education/tworzenie-stron-internetowych-dla-dzieci/)
 
 I record online classes using OBS Studio and then share them on YouTube platform.
 
