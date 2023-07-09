@@ -3,7 +3,7 @@
 <div align="right">
   <img src="https://media2.giphy.com/media/YMYucg1qWuVpHKS6dG/giphy.gif?cid=790b7611a05a0bf2cfa6d1570c7de724e90aad65359c398e&rid=giphy.gif&ct=g" width="200" height="150" align="right"/>
 </div>
-<h3>INSTRUKTOR PROGRAMOWANIA <br>w <a href="https://skyblue.education/">SkyBlue Education</a></h3>
+<h3>PROGRAMMING INSTRUCTOR  <br>in <a href="https://skyblue.education/">SkyBlue Education</a></h3>
 <a href="https://www.linkedin.com/in/krystian-osi%C5%84ski-6a4b46245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 <a href="https://www.facebook.com/krystian.osinski.7/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://education-it.pl/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
@@ -16,7 +16,7 @@
 
 ##
 
-<!-- ### 🧰 Języki i narzędzia:
+<!-- ### 🧰 Languages and Tools:
 
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
@@ -29,28 +29,28 @@
 </div>-->
 
 ##
-- ✨ Uwielbiam rozwiązywać zadania **algorytmiczne**, **programować** i **tworzyć gry**.
-- 🔭 Aktualnie pracuję nad **kolejnym kursem - HTML & CSS**. (Python lvl.1 - już dostępny! [link](https://skyblue.education/programowanie-dla-dzieci-python/) )
-- 🌱 Obecnie uczę się: **Framework'a Angular** , **Javy** i **WebGL'a**.
-- ⚡ Fun fact: lubię **biegać** i **jeździć na nartach**.
+- ✨ I love solving **algorithmic** tasks, **programming**, and **creating games**.
+- 🔭 Currently working on **another course - HTML & CSS**. (Python lvl.1 - available now! [link](https://skyblue.education/programowanie-dla-dzieci-python/))
+- 🌱 Currently learning: **Angular Framework**, **Java**, and **WebGL**.
+- ⚡ Fun fact: I enjoy **running** and **skiing**.
 <!-- - :mag_right: https://education-it.github.io/todo/ -->
 
 
 
 <details>
- <summary><h3>🎓 Moja przygoda z nauczaniem: </h3></summary>
-📚 Moja przygoda rozpoczęła się w liceum mundurowym w którym to mieliśmy wiele zajęć z ratownikami, żołnierzami, policjantami i strażakami. Po podstawowym przeszkoleniu - zostałem dowódcą klasy i wraz z moimi kolegami podjęliśmy się wyzwania nauczania młodszych klas musztry i ratownictwa. Wraz z nabywaniem doświadczenia - rozpoczęliśmy również nauczanie uczniów przedszkoli, szkół podstawowych i gimnazjalnych. Brałem udział jako "sędzia"  czy "pozorant" w wielu konkursach ratowniczych organizowanych przez "Centrum zarządzania kryzysowego".
-<br><br>
-📝 W czasie trwania liceum rozpocząłem pracę jako korepetytor z matematyki i geografii. Głównie pomagałem uczniom szkół podstawowych/gimnazjalnych. Jako korepetytor pracowałem 2 lata. (Aktualnie pomagam tylko siostrze i kuzynowi w nauce do matury)<br><br>
-
-☕ Następnie zacząłem pracować w kawiarni Starbucks - gdzie bardzo szybko awansowałem na Baristę trenera a w nie długim odstępie czasu również na stanowisko Store Coffee mastera. Moimi głównymi zadaniami było: przygotowywanie indywidualnego planu rozwoju oraz szkolenie baristów chcących awansować poziomo na stanowisko coffee master’a. Opieka nad nowymi pracownikami i wyposażenie ich w niezbędną wiedzę w pracy baristy oraz szerzenie pasji kawowej w zespole, inspirowanie i rozwój w świecie kawy. W Starbucks procowałem przez 2.5 roku.<br>
-
-💻 Po pierwszym roku studiów informatycznych - postanowiłem zacząć uczyć na całego! 😊 Rozpocząłem pracę w Sky Blue Education (od 09.2021) gdzie prowadzę zajęcia stacjonarne oraz zdalne z programowania blokowego w języku MakeCode i programowania w języku Python, dla dzieci z klas 1 - 6 (grupy 12 osobowe). Również współtworzę  program nauczania i materiały dydaktyczne (podręczniki i przykładowe programy) 
-Prowadzę też wszelkiego rodzaju akcje promocyjne, takie jak: drzwi otwarte,
-zajęć pokazowe, stanowiska na festynach czy wywiadówkach.
-
-Zajęćia online nagrywam za pomocą OBS studio i następnie udostępniam je na platformie YouTube.
+ <summary><h3>🎓 My teaching journey:</h3></summary>
   
-W SkyBlue - pracuję do dziś! ✔️
+📚 My adventure began in a military high school, where we had many classes with rescuers, soldiers, police officers, and firefighters. After basic training, I became the class commander, and together with my classmates, we took on the challenge of teaching younger classes drill and rescue techniques. As we gained experience, we also started teaching preschool, primary, and middle school students. I participated as a "judge" or "role-player" in many rescue competitions organized by the "Crisis Management Center".
+
+
+📝 During high school, I started working as a tutor in mathematics and geography. I mainly helped primary and middle school students. I worked as a tutor for 2 years. (Currently, I only help my sister and cousin with their high school exams)
+
+☕ Then I started working at Starbucks, where I quickly became a Trainer Barista and, shortly after, a Store Coffee Master. My main tasks included preparing an individual development plan and training baristas who wanted to progress horizontally to the position of coffee master. I took care of new employees and equipped them with the necessary knowledge for barista work while spreading the passion for coffee in the team, inspiring them, and fostering their development in the world of coffee. I worked at Starbucks for 2.5 years.
+
+💻 After the first year of computer science studies, I decided to fully engage in teaching! 😊 I started working at Sky Blue Education (since 09.2021), where I conduct stationary and remote classes in block programming using MakeCode and Python programming for children in grades 1-6 (groups of 12 students). I also co-create the curriculum and didactic materials (textbooks and sample programs). I also organize various promotional activities, such as open days, demonstration classes, stands at fairs or parent-teacher meetings.
+
+I record online classes using OBS Studio and then share them on YouTube platform.
+
+I am still working at SkyBlue! ✔️
 </details>
 
