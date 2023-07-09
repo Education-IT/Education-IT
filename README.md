@@ -32,7 +32,7 @@
 - 🔭 Currently working on **Unity course**.
 - 🌱 Currently learning: **C#**, **Angular**, and **agile project management**.
 - ⚡ Fun fact: I enjoy **running** and **skiing**.
-- :mag_right: https://education-it.github.io/todo/
+<!-- - :mag_right: https://education-it.github.io/todo/ -->
 
 
 
