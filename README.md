@@ -29,8 +29,8 @@
 
 ##
 - ✨ I love solving **algorithmic** tasks, **programming**, and **creating games**.
-- 🔭 Currently working on **Unity course**.
-- 🌱 Currently learning: **C#**, **Angular**, and **agile project management**.
+- 🔭 Currently working on **Unity course** and **APM udemy course**.
+- 🌱 Currently learning: **.NET**, **Angular**, and **agile project management**.
 - ⚡ Fun fact: I enjoy **running** and **skiing**.
 <!-- - :mag_right: https://education-it.github.io/todo/ -->
 
