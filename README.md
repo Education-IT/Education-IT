@@ -20,7 +20,7 @@
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>
           
@@ -30,7 +30,7 @@
 ##
 - ✨ I love solving **algorithmic** tasks, **programming**, and **creating games**.
 - 🔭 Currently working on **Unity course** and **APM udemy course**.
-- 🌱 Currently learning: **C#**, **ASP.NET**, **Angular**, and **agile project management**.
+- 🌱 Currently learning: **ASP.NET**, **SQL Server**, **Angular**, and **agile project management**.
 - ⚡ Fun fact: I enjoy **running** and **skiing**.
 <!-- - :mag_right: https://education-it.github.io/todo/ -->
 
