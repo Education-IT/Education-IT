@@ -30,8 +30,8 @@
 
 ##
 - ✨ I love solving **algorithmic** tasks, **programming**, and **creating games**.
-- 🔭 Currently working on **Unity course** and **APM udemy course**.
-- 🌱 Currently learning: **ASP.NET**, **SQL Server**, **Angular**, and **agile project management**.
+- 🔭 Currently working on **Unity course** and **Python 2 course**.
+- 🌱 Currently learning: **ASP.NET**, **SQL Server**, **Angular**.
 - ⚡ Fun fact: I enjoy **running** and **skiing**.
 <!-- - :mag_right: https://education-it.github.io/todo/ -->
 
