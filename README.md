@@ -4,7 +4,7 @@
   <img src="https://companieslogo.com/img/orig/KE-28e988d0.png?t=1644318675"  height="120" align="right"/>
 </div>
   
-<h2>Software Engineer I <br>in <a href="https://www.kimballelectronics.com/global-facilities/poznan-poland" target="_blank">Kimball Electronics</a></h2>
+<h3>Software Engineer I <br>in <a href="https://www.kimballelectronics.com/global-facilities/poznan-poland">Kimball Electronics</a></h3>
 <a href="https://www.linkedin.com/in/krystian-osi%C5%84ski-6a4b46245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 <!--<a href="https://www.youtube.com/channel/UCfH07qENh6BdSq1nUBSK53Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>-->
 <a href="mailto:krystian.osinski@education-it.pl"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
