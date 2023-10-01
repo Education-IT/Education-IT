@@ -3,9 +3,8 @@
 <div align="right">
   <img src="https://media2.giphy.com/media/YMYucg1qWuVpHKS6dG/giphy.gif?cid=790b7611a05a0bf2cfa6d1570c7de724e90aad65359c398e&rid=giphy.gif&ct=g" width="200" height="150" align="right"/>
 </div>
-<h3>PROGRAMMING INSTRUCTOR  <br>in <a href="https://skyblue.education/">SkyBlue Education</a></h3>
+<h3>Software Engineer I <br>in <a href="https://www.kimballelectronics.com/global-facilities/poznan-poland">Kimball Electronics</a></h3>
 <a href="https://www.linkedin.com/in/krystian-osi%C5%84ski-6a4b46245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-<a href="https://education-it.pl/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <!--<a href="https://www.youtube.com/channel/UCfH07qENh6BdSq1nUBSK53Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>-->
 <a href="mailto:krystian.osinski@education-it.pl"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <div>
