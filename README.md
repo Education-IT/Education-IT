@@ -1,8 +1,9 @@
 <div align=left>
 <h1>Krystian Osiński  </h1>
 <div align="right">
-  <img src="https://media2.giphy.com/media/YMYucg1qWuVpHKS6dG/giphy.gif?cid=790b7611a05a0bf2cfa6d1570c7de724e90aad65359c398e&rid=giphy.gif&ct=g" width="200" height="150" align="right"/>
+  <img src="https://companieslogo.com/img/orig/KE-28e988d0.png?t=1644318675"  height="120" align="right"/>
 </div>
+  
 <h3>Software Engineer I <br>in <a href="https://www.kimballelectronics.com/global-facilities/poznan-poland">Kimball Electronics</a></h3>
 <a href="https://www.linkedin.com/in/krystian-osi%C5%84ski-6a4b46245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 <!--<a href="https://www.youtube.com/channel/UCfH07qENh6BdSq1nUBSK53Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>-->
@@ -28,13 +29,11 @@
 </div>
 
 ##
-- ✨ I love solving **algorithmic** tasks, **programming**, and **creating games**.
-- 🔭 Currently working on **Unity course** and **Python 2 course**.
+- ✨ I enjoy solving **algorithmic** tasks, **programming**, and **creating games**.
+- 🔭 Currently working on **BrainBoost app**.
 - 🌱 Currently learning: **ASP.NET**, **SQL Server**, **Angular**.
-- ⚡ Fun fact: I enjoy **running** and **skiing**.
+- ⚡ Fun fact: I love **teaching**!.
 <!-- - :mag_right: https://education-it.github.io/todo/ -->
-
-
 
 <details>
  <summary><h3>🎓 My teaching journey:</h3></summary>
@@ -56,6 +55,6 @@
 
 I record online classes using OBS Studio and then share them on YouTube platform.
 
-I am still working at SkyBlue! ✔️
+I finished teaching on October 1, 2023. I continue to support and advise Sky blue education. I worked there for 2 years ✔️
 </details>
 
