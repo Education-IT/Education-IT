@@ -32,7 +32,7 @@
 - ✨ I enjoy solving **algorithmic** tasks, **programming**, and **creating games**.
 - 🔭 Currently working on **BrainBoost app**.
 - 🌱 Currently learning: **ASP.NET**, **SQL Server**, **Angular**.
-- ⚡ Fun fact: I love **teaching**!.
+- ⚡ Fun fact: I love **teaching**!
 <!-- - :mag_right: https://education-it.github.io/todo/ -->
 
 <details>
