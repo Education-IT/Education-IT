@@ -6,30 +6,28 @@
 <h3>Software Engineer I <br>in <a href="https://www.kimballelectronics.com/global-facilities/poznan-poland">Kimball Electronics</a></h3>
 <a href="https://www.linkedin.com/in/krystian-osi%C5%84ski-6a4b46245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 <!--<a href="https://www.youtube.com/channel/UCfH07qENh6BdSq1nUBSK53Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>-->
-<a href="mailto:krystian.osinski@education-it.pl"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <div>
-<!-- <img src="https://komarev.com/ghpvc/?username=Education-IT&style=flat-square&color=blue" alt=""/>--></div>
 </div>
 
 
 ##
 
- ### 🧰 Languages and Tools:
+ ### 🛠️ Main languages and tools:
 
 <div>
    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" title=".NET" alt=".NET" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
    <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" title="SQL Server" alt="SQL Server" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
+   <img src="https://img.icons8.com/color/48/python.png" title="Python" alt="Python" width="40" height="40"/>
+   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>-->
+   
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>
-          
-          
 </div>
 
 ##
-- ✨ I enjoy solving **algorithmic** tasks, **programming**, and **creating games**.
-- 🔭 Currently working on **conversion system for Kimball Electronics Poland**.
+- ✨ I enjoy solving **algorithmic** tasks & **programming**.
+- 🔭 Currently working on **master's thesis**.
 - 🌱 Currently learning: **NLP**.
 - ⚡ Fun fact: I love **teaching**!
 <!-- - :mag_right: https://education-it.github.io/todo/ -->
@@ -39,8 +37,7 @@
   
 📚 My adventure began in a military high school, where we had many classes with rescuers, soldiers, police officers, and firefighters. After basic training, I became the class commander, and together with my classmates, we took on the challenge of teaching younger classes drill and rescue techniques. As we gained experience, we also started teaching preschool, primary, and middle school students. I participated as a "judge" or "role-player" in many rescue competitions organized by the "Crisis Management Center".
 
-
-📝 During high school, I started working as a tutor in mathematics and geography. I mainly helped primary and middle school students. I worked as a tutor for 2 years. (Currently, I only help my sister and cousin with their high school exams)
+📝 During high school, I started working as a tutor in mathematics and geography. I mainly helped primary and middle school students. I worked as a tutor for 2 years.
 
 ☕ Then I started working at Starbucks, where I quickly became a Trainer Barista and, shortly after, a Store Coffee Master. My main tasks included preparing an individual development plan and training baristas who wanted to progress horizontally to the position of coffee master. I took care of new employees and equipped them with the necessary knowledge for barista work while spreading the passion for coffee in the team, inspiring them, and fostering their development in the world of coffee. I worked at Starbucks for 2.5 years.
 
