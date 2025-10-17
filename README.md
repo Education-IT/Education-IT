@@ -27,10 +27,9 @@
 
 ##
 - ✨ I enjoy solving **algorithmic** tasks & **programming**.
-- 🔭 Currently working on **master's thesis**.
-- 🌱 Currently learning: **NLP**.
 - ⚡ Fun fact: I love **teaching**!
 <!-- - :mag_right: https://education-it.github.io/todo/ -->
+<!-- - :mag_right: https://education-it.github.io/todo/  -->
 
 <details>
  <summary><h3>🎓 My teaching journey:</h3></summary>
