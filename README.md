@@ -34,7 +34,7 @@
 
 
 <details open>
-  <summary><h3🎓 My Teaching Journey></h3></summary>
+  <summary><h3>🎓 My Teaching Journey></h3></summary>
 
 
 | Period | Organization | Role | Key Responsibilities |
