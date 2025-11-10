@@ -23,13 +23,18 @@
 </div>
 
 ##
-- ✨ I enjoy solving **algorithmic** tasks & **programming**.
-- ⚡ Fun fact: I love **teaching**!
-<!-- - :mag_right: https://education-it.github.io/todo/ -->
 
 
-<details>
-  <summary><h3>🎓 My Teaching Journey</h3></summary>
+- ⚡ I love **teaching** and sharing knowledge!  
+- 🎯 I am passionate about **working with data** and my goal is to become a **Data Engineer**.   
+- 📚 I create educational materials and videos to help others learn **advanced techniques** in the **SQL Server** environment.
+
+
+##
+
+
+
+### 🎓 My Teaching Journey: 
 
 | Period | Organization | Role | Key Responsibilities |
 |:-------|:--------------|:-----|:----------------------|
@@ -40,7 +45,6 @@
 | 2017 – 2019 | **Private tutoring** | Math & Geography Tutor | Provided one-on-one tutoring for primary at nd middle school students |
 | 2015 – 2018 | **Military High School** ([ZSH Poznań](https://www.zsh.edu.pl/)) | Class Commander | Led **drill** and **rescue** lessons for younger students; participated as *judge* & *role-player* in **Poznań's Crisis Management Center** rescue competitions. |
 
-</details>
 
 
 
