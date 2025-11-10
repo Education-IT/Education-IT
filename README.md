@@ -15,7 +15,6 @@
  ### 🛠️ Main languages and tools:
 
 <div>
-
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" title="SSMS 22" alt="SQL Server" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/512px-VB.NET_Logo.svg.png?20210603083010" title="VB.NET" alt="VB.NET" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" title=".NET" alt=".NET" width="40" height="40"/>
@@ -27,28 +26,22 @@
 - ✨ I enjoy solving **algorithmic** tasks & **programming**.
 - ⚡ Fun fact: I love **teaching**!
 <!-- - :mag_right: https://education-it.github.io/todo/ -->
-<!-- - :mag_right: https://education-it.github.io/todo/  -->
+
 
 <details>
- <summary><h3>🎓 My teaching journey:</h3></summary>
-  
-📚 My adventure began in a military high school, where we had many classes with rescuers, soldiers, police officers, and firefighters. After basic training, I became the class commander, and together with my classmates, we took on the challenge of teaching younger classes drill and rescue techniques. As we gained experience, we also started teaching preschool, primary, and middle school students. I participated as a "judge" or "role-player" in many rescue competitions organized by the "Crisis Management Center".
+  <summary><h3>🎓 My Teaching Journey</h3></summary>
 
-📝 During high school, I started working as a tutor in mathematics and geography. I mainly helped primary and middle school students. I worked as a tutor for 2 years.
+| Period | Organization | Role | Key Responsibilities |
+|:-------|:--------------|:-----|:----------------------|
+| 2023 – present | **[Kimball Electronics](https://www.kimballelectronics.com/global-facilities/poznan-poland)** | Software Engineer I |  Supervising interns, assigning tasks, training them, and supporting their onboarding. Preparing presentations to teach the team new tools and query optimization techniques. |
+| Summer 2025 | **[Giganci Programowania](https://www.codinggiants.com/)** | Programming Instructor | Taught **Scratch** during summer coding camps; combined creativity, problem-solving, and fun through interactive projects. |
+| 2021 – 2023 | **[Sky Blue Education](https://skyblue.education/)** | Programming Instructor | Conducted **MakeCode** & **Python** classes (grades 1–6); co-created curricula, handbooks, and demo lessons; organized events (open days, fairs, parent meetings); recorded lessons with **OBS Studio** for YouTube
+| 2019 – 2021 | **[Starbucks](https://www.starbucks.pl/)** | Trainer Barista → Store Coffee Master | Prepared individual development plans; trained and mentored baristas; led Coffee Master certification workshops; promoted coffee culture and team growth. |
+| 2017 – 2019 | **Private tutoring** | Math & Geography Tutor | Provided one-on-one tutoring for primary and middle school students |
+| 2015 – 2018 | **Military High School** ([ZSH Poznań](https://www.zsh.edu.pl/)) | Class Commander | Led **drill** and **rescue** lessons for younger students; participated as *judge* & *role-player* in **Crisis Management Center** rescue competitions. |
 
-☕ Then I started working at Starbucks, where I quickly became a Trainer Barista and, shortly after, a Store Coffee Master. My main tasks included preparing an individual development plan and training baristas who wanted to progress horizontally to the position of coffee master. I took care of new employees and equipped them with the necessary knowledge for barista work while spreading the passion for coffee in the team, inspiring them, and fostering their development in the world of coffee. I worked at Starbucks for 2.5 years.
-
-💻 After the first year of computer science studies, I decided to fully engage in teaching! 😊 I started working at Sky Blue Education (since 09.2021), where I conduct stationary and remote classes in block programming using MakeCode and Python programming for children in grades 1-6 (groups of 12 students). I also co-create the curriculum and didactic materials (textbooks and sample programs). I also organize various promotional activities, such as open days, demonstration classes, stands at fairs or parent-teacher meetings.
-
-📃I have created 2 handbooks for teaching block programming in MakeCode and programming in Python in Minecraft Education Edition. I have also developed 2 courses (each consisting of 8 lessons) teaching Python and HTML & CSS."
-
--> Python lvl.1 course [link](https://skyblue.education/programowanie-dla-dzieci-python/)
-
--> HTML & CSS course [link](https://skyblue.education/tworzenie-stron-internetowych-dla-dzieci/)
-
-I record online classes using OBS Studio and then share them on YouTube platform.
-
-I finished teaching on October 1, 2023. I continue to support and advise Sky blue education. I worked there for 2 years ✔️
 </details>
+
+
 
 
