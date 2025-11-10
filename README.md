@@ -33,19 +33,15 @@
 ##
 
 
-
-### 🎓 My Teaching Journey: 
+<details open>
+  <summary>🎓 My Teaching Journey</summary>
 
 | Period | Organization | Role | Key Responsibilities |
 |:-------|:--------------|:-----|:----------------------|
 | 2023 – present | **[Kimball Electronics](https://www.kimballelectronics.com/global-facilities/poznan-poland)** | Software Engineer I |  Supervising interns, assigning tasks, training them, and supporting their onboarding. Preparing presentations to teach the team new tools and query optimization techniques. |
-| Summer 2025 | **[Giganci Programowania](https://www.codinggiants.com/)** | Programming Instructor | Taught **Scratch** during summer coding camps (4 classes) |
+| Summer 2025 | **[Coding Giants](https://www.codinggiants.com/)** | Programming Instructor | Taught **Scratch** during summer coding camps (4 classes) |
 | 2021 – 2023 | **[Sky Blue Education](https://skyblue.education/)** | Programming Instructor | Conducted **MakeCode** & **Python** classes; co-created curricula, handbooks, and demo lessons; organized events (open days, fairs, parent meetings); recorded lessons with **OBS Studio** for YouTube |
 | 2019 – 2021 | **[Starbucks](https://www.starbucks.pl/)** | Store Coffee Master | Prepared individual developmenplans; trained and mentored baristas; led Coffee Master certification workshops |
 | 2017 – 2019 | **Private tutoring** | Math & Geography Tutor | Provided one-on-one tutoring for primary at nd middle school students |
 | 2015 – 2018 | **Military High School** ([ZSH Poznań](https://www.zsh.edu.pl/)) | Class Commander | Led **drill** and **rescue** lessons for younger students; participated as *judge* & *role-player* in **Poznań's Crisis Management Center** rescue competitions. |
-
-
-
-
-
+</details>
