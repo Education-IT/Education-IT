@@ -34,7 +34,8 @@
 
 
 <details open>
-  <summary>🎓 My Teaching Journey</summary>
+  <summary><h3🎓 My Teaching Journey></h3></summary>
+
 
 | Period | Organization | Role | Key Responsibilities |
 |:-------|:--------------|:-----|:----------------------|
@@ -44,4 +45,5 @@
 | 2019 – 2021 | **[Starbucks](https://www.starbucks.pl/)** | Store Coffee Master | Prepared individual developmenplans; trained and mentored baristas; led Coffee Master certification workshops |
 | 2017 – 2019 | **Private tutoring** | Math & Geography Tutor | Provided one-on-one tutoring for primary at nd middle school students |
 | 2015 – 2018 | **Military High School** ([ZSH Poznań](https://www.zsh.edu.pl/)) | Class Commander | Led **drill** and **rescue** lessons for younger students; participated as *judge* & *role-player* in **Poznań's Crisis Management Center** rescue competitions. |
+
 </details>
